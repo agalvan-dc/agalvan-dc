@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi! I'm Armando, a telecommunications engineer student who programs for fun.<br>I'm currently improving my C and python skills via 42, being a student there as well.<br><br>I like to program as I've always been invested in building, looking forward to build my own kernel in some time.<br>Working for a company is another option, I manage really well in social environments, being really open and resourceful whenever I can.
 
 
 ## 🌐 Socials:
