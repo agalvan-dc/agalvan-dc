@@ -1,6 +1,6 @@
 
-# 💫 About Me
-Hi there! 👋 I'm **Armando Galvan (`agalvan-`)**, a student at **42 Madrid**.
+# About Me
+Hi there! I'm **Armando Galvan (`agalvan-`)**, a student at **42 Madrid**.
 
 ## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.galvandecastro@gmail.com)
