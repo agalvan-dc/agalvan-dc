@@ -1,0 +1,10 @@
+{
+  "ignorePatterns": [
+    { "pattern": "^mailto:" },
+    { "pattern": "\\.svg$" },
+    { "pattern": "^#gh-(light|dark)-mode-only$" },
+    { "pattern": "komarev\\.com" },
+    { "pattern": "shields\\.io" }
+  ],
+  "aliveStatusCodes": [200, 206, 403, 429]
+}

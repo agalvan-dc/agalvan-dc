@@ -1,0 +1,23 @@
+name: Check README Links
+on:
+  push:
+    paths:
+      - "README.md"
+  pull_request:
+    paths:
+      - "README.md"
+  schedule:
+    # Weekly maintenance, Mondays at 06:00
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: yes
+          config-file: .markdown-link-check.json
+          max-depth: 1
