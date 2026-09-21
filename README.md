@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><a href="https://github.com/agalvan-dc">agalvan-</a></h1>
+<h1><i>agalvan-</i></h1>
 
 <h3>Software Engineering Student at <b>42 Madrid</b></h3>
 
@@ -70,11 +70,7 @@ Projects from the **42 Cursus**:
 ## GitHub Analytics
 
 <p align="center">
-  <a href="github-metrics.svg"><img src="github-metrics.svg" alt="Armando's GitHub Metrics" width="730" /></a>
-</p>
-
-<p align="center">
-  <a href="github-trophies.svg"><img src="github-trophies.svg" alt="Armando's GitHub Trophies" width="1000" /></a>
+  <img src="github-metrics.svg" alt="Armando's GitHub Metrics" />
 </p>
 
 ### Contribution snake
